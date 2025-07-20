@@ -11,7 +11,7 @@ This project is a prototype safety system designed to detect drowsiness in drive
 ## 🧠 Technologies Used
 - Python (OpenCV)
 - PyCharm for development
-- ESP32 (Arduino or MicroPython)
+- ESP32 
 - Seat Pressure Sensor
 - Potentiometer
 - Serial Communication (USB)
